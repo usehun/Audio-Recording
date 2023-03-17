@@ -1,0 +1,13 @@
+#audioContainer {
+  width: 500px;
+  height: 20px;
+  background-color: #eeeeee;
+  border-radius: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+}
+#playPauseBtn {
+  color: #8b8b8b;
+}
